@@ -1,0 +1,43 @@
+{
+  "name": "personalportfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "animate-components": "^1.4.8",
+    "jquery": "^3.5.1",
+    "particle-bg": "^0.3.2",
+    "particles-bg": "^2.5.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-flippy": "^0.1.5",
+    "react-ga": "^3.1.2",
+    "react-scripts": "3.4.3",
+    "react-typical": "^0.1.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^1.2.1",
+    "use-dencrypt-effect": "^1.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
+  "main": "index.js",
+  "author": "roopa",
+  "license": "ISC"
+}

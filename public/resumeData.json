@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name":"Roopa Singam",
+    "occupation":"React Js",
+    "description":"I am a Frontend Developer and I use react and firebase to develop web pages. Full Stack Enthusiastic ",
+    "image":"profilepic1.jpg",
+    "bio":"Enthusiastic UI Developer with an experience of 1.5 years in successfully building the front end of the React apps. Have good knowledge of redux and clear uderstanding of Life-cycles components and hooks concepts related to react development and proficiency in JavaScript, HTML, CSS.",
+    "email": "roopasingam1997@gmail.com",
+    "phone": "9121961595",
+    "github":"https://github.com/RoopaSingam",
+    "address":{
+      "street":"Golden Heights",
+      "city":"Narasaraopet",
+      "state":"Andhra Pradesh",
+      "zip": "522601"
+    },
+    
+    "resumedownload":"https://drive.google.com/drive/my-drive",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/home?lang=en",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/roopa-singam/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/RoopaSingam",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+   
+      {
+        "school":"Amrita School of engineering",
+        "degree":"Computer Science",
+        "graduated":"May 2019"
+      }
+    ],
+    "work":[
+      {
+        "company":"Cognizant",
+        "title":"Program Analyst ",
+        "years":"June 2019 - Present",
+        "description":"I work as a front end developer uses react library for web development"
+      }
+    
+    ],
+    "skills":[
+     
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+     
+      {
+        "name":"JAVA",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"25%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"My Website",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"Google Clone",
+        "category":"Search Engine",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"Rick and Monty",
+        "category":"Website I built for a rest api",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"Todo List",
+        "category":"Basic crud operations App connected with firebase database",
+        "image":"",
+        "url":""
+      }
+    
+    ]
+  }
+}

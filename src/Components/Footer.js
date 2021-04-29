@@ -17,7 +17,7 @@ class Footer extends Component {
            <ul className="social-links">
               {networks}
            </ul>
-           <ul><strong>Roopa Singam © 2020</strong></ul>
+           <ul><strong>Roopa Singam © 2021</strong></ul>
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
      </div>

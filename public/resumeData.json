@@ -2,9 +2,9 @@
   "main": {
     "name":"Roopa Singam",
     "occupation":"React Js",
-    "description":"I am a Frontend Developer and I use react and firebase to develop web pages. Full Stack Enthusiastic ",
+    "description":"I'm a Frontend Developer and my go-to technologies are ReactJs, Javascript and Node.js . Full Stack Enthusiastic ",
     "image":"profilepic1.jpg",
-    "bio":"Enthusiastic UI Developer with an experience of 1.5 years in successfully building the front end of the React apps. Have good knowledge of redux and clear uderstanding of Life-cycles components and hooks concepts related to react development and proficiency in JavaScript, HTML, CSS.",
+    "bio":"Enthusiastic UI Developer with  2 years of professional experience  in successfully building the front end of various websites.I am fluent in classics like C, Java and Javascript. My current focus is on  Machine Learning and DataScience.Whenever possible, I also apply my passion for developing projects with Modern Javascript Frameworks  like Node.js and React.js.",
     "email": "roopasingam1997@gmail.com",
     "phone": "9121961595",
     "github":"https://github.com/RoopaSingam",
@@ -39,17 +39,18 @@
     "education":[
    
       {
-        "school":"Amrita School of engineering",
+        "school":"Amrita School of engineering, Bangalore",
         "degree":"Computer Science",
-        "graduated":"May 2019"
+        "graduated":"July 2015 -  May 2019",
+        "description":"Successfully accomplished courses in algorithms, data structures, Machine Learning, Programming Languages, Operating Systems ,databases and many others covering important components of theory, abstraction and design."
       }
     ],
     "work":[
       {
         "company":"Cognizant",
-        "title":"Program Analyst ",
+        "title":"Programer Analyst ",
         "years":"June 2019 - Present",
-        "description":"I work as a front end developer uses react library for web development"
+        "description":"I work as a Frontend developer for various clients and build projects using reactJs library .I have good knowledge of redux and clear uderstanding of Life-cycles components and hooks concepts related to react development and proficienct in JavaScript, HTML, CSS."
       }
     
     ],
@@ -79,36 +80,12 @@
       {
         "name":"VueJs",
         "level":"25%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"35%"
       }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"My Website",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"",
-        "url":""
-      },
-      {
-        "title":"Google Clone",
-        "category":"Search Engine",
-        "image":"",
-        "url":""
-      },
-      {
-        "title":"Rick and Monty",
-        "category":"Website I built for a rest api",
-        "image":"",
-        "url":""
-      },
-      {
-        "title":"Todo List",
-        "category":"Basic crud operations App connected with firebase database",
-        "image":"",
-        "url":""
-      }
-    
     ]
   }
+ 
 }

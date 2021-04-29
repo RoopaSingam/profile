@@ -10,6 +10,7 @@ import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
+
 class App extends Component {
 
   constructor(props){
@@ -35,9 +36,10 @@ class App extends Component {
       }
     });
   }
-
+   
   componentDidMount(){
     this.getResumeData();
+    console.log("data",this.state.resumeData)
   }
 
   render() {
